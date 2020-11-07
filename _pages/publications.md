@@ -8,17 +8,17 @@ entries_layout: grid
 
 # Current Work
 
-{% include base_path %}
+# {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% if post.pub == 0 %}
-     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+# {% for post in site.publications reversed %}
+#  {% if post.pub == 0 %}
+#     {% include archive-single.html %}
+#  {% endif %}
+# {% endfor %}
 
 ---
 
-# Refereed Publications
+# Publications
 
 {% for post in site.publications reversed %}
   {% if post.pub == 1 %}
@@ -28,7 +28,7 @@ entries_layout: grid
 
 ---
 
-# Others
+# Theses and Dissertation
 {% for post in site.publications reversed %}
   {% if post.pub == 2 %}
      {% include archive-single.html %}
