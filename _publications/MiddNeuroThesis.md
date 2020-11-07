@@ -6,7 +6,7 @@ authors: <b>Nuttida Rungratsameetaweemana</b>
 excerpt: 
 date: 2014-05-26
 venue: 'Neuroscience Thesis'
-file: 'st-phys.pdf'
-img: ''
-pub: 1
+file: 
+img: 
+pub: 2
 ---
