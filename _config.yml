@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Nuttida Rungratsameetaweemana"
-  avatar           : "Nuttida.png"
-  bio              : "Postdoctoral Fellow in Physics @ UCSD"
+  avatar           : "Nuttida_Square.JPG"
+  bio              : "Postdoctoral Fellow, Computational Neurobiology | Sejnowski Lab @ Salk Institute & US CCDC Army Research Lab"
   location         : "San Diego, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vTyWQr0AAAAJ&hl=en"
-  email            : "pwongwai@ucsd.edu"
+  email            : "nrungrat@salk.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7455-8582"
+  orcid            : "https://orcid.org/0000-0002-4599-450X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
