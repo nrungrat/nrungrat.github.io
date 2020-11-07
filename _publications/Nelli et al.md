@@ -1,5 +1,5 @@
 ---
-title: "The Speed-Accuracy Tradeoff Reveals Flexible Access to Accumulating Sensory Evidence during Human Decision-Making."
+title: "The speed-accuracy tradeoff reveals flexible access to accumulating sensory evidence during human decision-making."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 authors: Stephanie Nelli, Sirawaj Itthipuripat, <b>Nutida Rungratsameetaweemana</b>, John T. Serences
