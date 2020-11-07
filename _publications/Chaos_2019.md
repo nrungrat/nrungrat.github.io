@@ -1,5 +1,5 @@
 ---
-title: "Cortical Chimera States Predict Epileptic Seizures"
+title: "Cortical chimera states predict epileptic seizures"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 authors: Claudia Lainscsek*, <b>Nuttida Rungratsameetaweemana*</b>, Sydney S. Cash, Terrence J. Sejnowski
