@@ -6,19 +6,19 @@ author_profile: true
 entries_layout: grid
 ---
 
-# Current Work
+# How prior knowledge of statistical regularities influence cognition
 
-# {% include base_path %}
+ {% include base_path %}
 
-# {% for post in site.publications reversed %}
-#  {% if post.pub == 0 %}
-#     {% include archive-single.html %}
-#  {% endif %}
-# {% endfor %}
+ {% for post in site.publications reversed %}
+  {% if post.pub == 0 %}
+     {% include archive-single.html %}
+  {% endif %}
+ {% endfor %}
 
 ---
 
-# Publications
+# Neural and behavioral dynamics of complex cognitive functions
 
 {% for post in site.publications reversed %}
   {% if post.pub == 1 %}
@@ -28,7 +28,7 @@ entries_layout: grid
 
 ---
 
-# Theses and Dissertation
+# Others
 {% for post in site.publications reversed %}
   {% if post.pub == 2 %}
      {% include archive-single.html %}
