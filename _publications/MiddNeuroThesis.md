@@ -1,5 +1,5 @@
 ---
-title: "The Influence of Internal and External Arousal on Memory"
+title: "The influence of internal and external arousal on memory"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 authors: <b>Nuttida Rungratsameetaweemana</b>
