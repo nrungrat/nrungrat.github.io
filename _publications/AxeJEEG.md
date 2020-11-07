@@ -1,11 +1,11 @@
 ---
-title: "Probabilistic Information Processing in Humans and Recurrent Neural Networks"
+title: "Differential Temporal Dynamics of Top-down Control on Probabilistic Perceptual Decision Making"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 authors: 
 excerpt: ''
 date: 2020-11-07
-venue: 'TBD'
+venue: 'Preprint'
 img: 
-pub: 1
+pub: 0
 ---
