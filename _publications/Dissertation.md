@@ -1,5 +1,5 @@
 ---
-title: "Neural Dynamics of Probabilistic Perceptual Decision Making in the Human Brain?"
+title: "Neural dynamics of probabilistic perceptual decision making in the human brain?"
 collection: publications
 authors: <b>Nuttida Rungratsameetaweemana</b>
 excerpt: 
