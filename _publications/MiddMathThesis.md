@@ -6,7 +6,7 @@ authors: <b>Nuttida Rungratsameetaweemana</b>
 excerpt: 
 date: 2014-05-26
 venue: 'Mathematics Thesis'
-file: 'st-phys.pdf'
+file: 
 img: ''
 pub: 2
 ---
