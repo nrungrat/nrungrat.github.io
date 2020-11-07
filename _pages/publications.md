@@ -18,7 +18,7 @@ entries_layout: grid
 
 ---
 
-# Articles
+# Articles:
 
 {% for post in site.publications reversed %}
   {% if post.pub == 1 %}
@@ -28,7 +28,7 @@ entries_layout: grid
 
 ---
 
-# Dissertation and Theses
+# Dissertation and Theses:
 {% for post in site.publications reversed %}
   {% if post.pub == 2 %}
      {% include archive-single.html %}
