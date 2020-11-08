@@ -4,10 +4,10 @@ main:
 #    url: /education/
 
   - title: "Research"
-    url: /research/
+    url: /publications/
     
-  - title: "Conferences"
-    url: /conferences/    
+  - title: "Presentations"
+    url: /talks/    
 
   - title: "CV"
     url: /cv/    
