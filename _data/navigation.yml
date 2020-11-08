@@ -4,13 +4,13 @@ main:
 #    url: /education/
 
   - title: "Research"
-    url: /publications/
+    url: /research/
     
   - title: "Conferences"
-    url: /talks/    
+    url: /conferences/    
 
   - title: "CV"
-    url: /CV/    
+    url: /cv/    
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
