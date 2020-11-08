@@ -7,6 +7,6 @@ excerpt:
 date: 2014-05-26
 venue: 'Neuroscience Thesis'
 file: 
-img: 
+img: 'MiddNeuroThesis.PNG'
 pub: 2
 ---
