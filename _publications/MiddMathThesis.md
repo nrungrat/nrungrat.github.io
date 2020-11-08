@@ -7,6 +7,6 @@ excerpt:
 date: 2014-05-26
 venue: 'Mathematics Thesis'
 file: 
-img: ''
+img: 'MiddMathThesis.PNG'
 pub: 2
 ---
