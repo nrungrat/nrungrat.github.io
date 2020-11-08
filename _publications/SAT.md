@@ -6,7 +6,7 @@ authors: Stephanie Nelli, Sirawaj Itthipuripat, <b>Nutida Rungratsameetaweemana<
 excerpt: 
 date: 2020-11-07
 venue: bioRxiv
-img: 'SAT.PNG
+img: 'SAT.PNG'
 doi: "https://www.biorxiv.org/content/10.1101/420430v1.abstract"
 pub: 0
 ---
