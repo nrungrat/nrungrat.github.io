@@ -6,7 +6,7 @@ author_profile: true
 entries_layout: grid
 ---
 
-# Pre-prints:
+# Current Projects and Pre-prints:
 
  {% include base_path %}
 
