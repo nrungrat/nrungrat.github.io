@@ -1,4 +1,3 @@
-
 ---
 title: "Intrinsic network topologies underlie distinct propagation dynamics of focal seizures"
 collection: publications
