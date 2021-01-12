@@ -6,6 +6,6 @@ authors: <b>Nuttida Rungratsameetaweemana</b>, Sirawaj Itthipuripat, Javier O. G
 excerpt: ''
 date: 2020-11-07
 venue: 'Preprint'
-img: 'AxeJEEG.PNG'
+img: 'AxeJEEG.png'
 pub: 0
 ---
