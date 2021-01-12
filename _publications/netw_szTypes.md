@@ -6,7 +6,7 @@ authors: <b>Nutida Rungratsameetaweemana</b>, Claudia Lainscsek, Sydney S. Cash,
 excerpt: 
 date: 2021-1-08
 venue: In Preparation
-img: 'netw_szTypes.PNG'
+img: 'netw_szTypes.png'
 doi: 
 pub: 0
 ---
