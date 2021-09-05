@@ -6,9 +6,8 @@ authors: <b>Nutida Rungratsameetaweemana</b>, Claudia Lainscsek, Sydney S. Cash,
 excerpt: 
 date: 2021-1-08
 venue: bioRxiv
-doi: "https://www.biorxiv.org/content/10.1101/2021.06.12.448205v1"
 img: 'netw_szTypes.png'
-doi: 
+doi: "https://www.biorxiv.org/content/10.1101/2021.06.12.448205v1"
 pub: 0
 ---
 
