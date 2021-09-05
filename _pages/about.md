@@ -17,7 +17,7 @@ Nuttida received her BA in Neuroscience and Mathematics from Middlebury College,
 **Selected awards & honors**
 - Chancellor’s Outstanding Postdoctoral Award Finalist, UC San Diego (2021)
 - Next Gen Postdoc, Salk Institute (2021)
-- U.S. ARL BAA for Basic & Applied Scientific Research Award ($182,640; 2021)
+- U.S. ARL BAA for Basic & Applied Scientific Research Award (2021)
 - Career Advancement Award, Salk Institute (2021)
 - Anuradha Rao Memorial Award, Cell Press/ Society for Neuroscience (2021)
 
