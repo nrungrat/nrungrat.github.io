@@ -14,7 +14,11 @@ Nuttida is a postdoctoal research fellow in <a href="https://cnl.salk.edu/" targ
 
 Nuttida received her BA in Neuroscience and Mathematics from Middlebury College, VT in 2014 and her PhD in Neurosciences with a Specialization in Computational Neurosciences from University of California, San Diego in 2020. Her graduate work with <a href="https://serenceslab.ucsd.edu/" target="_blank">Dr. John Serences</a> and <a href="http://whoville.ucsd.edu/" target="_blank">Dr. Larry Squire</a> employs a complementary blend of novel psychophysical paradigms, neuroimaging techniques, and lesion studies to understand the mechanisms by which the brain encodes and uses probabilistic sensory information to guide adaptive decision making.
 
-<Selected awards & honors>
-
+# **Selected awards & honors**
+Chancellor’s Outstanding Postdoctoral Award Finalist, UC San Diego (2021)
+Next Gen Postdoc, Salk Institute (2021)
+U.S. ARL BAA for Basic & Applied Scientific Research Award ($182,640; 2021)
+Career Advancement Award, Salk Institute (2021)
+Anuradha Rao Memorial Award, Cell Press/ Society for Neuroscience (2021)
 
 <hallo hallo>
