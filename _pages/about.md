@@ -17,8 +17,8 @@ Nuttida received her BA in Neuroscience and Mathematics from Middlebury College,
 **Selected Awards & Honors**
 - UC San Diego Chancellor’s Outstanding Postdoctoral Award Recipient (2021) <a href="https://postdoc.ucsd.edu/award-opportunities/postdoctoral-scholar-award.html#Recipients" target="_blank">[link1]</a>, <a href="https://inc.ucsd.edu/news/" target="_blank">[link2]</a>
 - Stanford.Berkeley.UCSF Next Generation Faculty Symposium Honorable Mention (2021) <a href="https://www.berkeleystanfordnextgensymposium.com/featuredattendees-1" target="_blank">[link]</a>
-- U.S. ARL Postdoc and Early Career Symposium Dr. Brad Forch Award for Best Poster (2021)
 - Salk Institute Next Gen Postdoc (2021) <a href="https://inside.salk.edu/fall-2021/nuttida-rungratsameetaweemana-drawing-from-memories/" target="_blank">[link]</a>
+- U.S. ARL Postdoc and Early Career Symposium Dr. Brad Forch Award for Best Poster (2021)
 - U.S. ARL BAA for Basic & Applied Scientific Research Award (2021)
 - Salk Institute Career Advancement Award (2021)
 - Cell Press/ Society for Neuroscience Anuradha Rao Memorial Award (2021) <a href="https://marlin-prod.literatumonline.com/pb-assets/journals/research/neuron/Anuradha_Rao_Memorial_Award_2020_2021.pdf" target="_blank">[link]</a>
