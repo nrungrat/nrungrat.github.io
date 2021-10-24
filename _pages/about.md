@@ -21,7 +21,6 @@ Nuttida received her BA in Neuroscience and Mathematics from Middlebury College,
 - Salk Institute Next Gen Postdoc (2021) <a href="https://inside.salk.edu/fall-2021/nuttida-rungratsameetaweemana-drawing-from-memories/" target="_blank">[link]</a>
 - U.S. ARL Postdoc and Early Career Symposium Dr. Brad Forch Award for Best Poster (2021)
 - U.S. ARL BAA for Basic & Applied Scientific Research Award (2021)
-<- Salk Institute Career Advancement Award (2021)>
 - Cell Press/ Society for Neuroscience Anuradha Rao Memorial Award (2021) <a href="https://marlin-prod.literatumonline.com/pb-assets/journals/research/neuron/Anuradha_Rao_Memorial_Award_2020_2021.pdf" target="_blank">[link]</a>
 
 <hallo hallo>
