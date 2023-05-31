@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nuttida Rungratsameetaweemana, PhD"
 title_separator          : "-"
 name                     : &name "Nuttida Rungratsameetaweemana"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Provost's Research Fellow"
 url                      : "https://nrungrat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nrungrat.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Nuttida Rungratsameetaweemana"
-  avatar           : "Nuttida_Square.JPG"
-  bio              : "Postdoctoral Research Fellow | Sejnowski Lab, Salk Institute"
-  location         : "San Diego, CA"
+  avatar           : "Nuttida_Profile.JPG"
+  bio              : "Provost's Research Fellow | Columbia BME"
+  location         : "New York City, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vTyWQr0AAAAJ&hl=en"
-  email            : "nrungrat@salk.edu"
+  email            : "nr2869@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"tpakorn"
+  github           : "https://github.com/NuttidaLab"
   google_plus      :
   keybase          :
   instagram        : #"tpakorn"
