@@ -16,8 +16,8 @@ I completed my BA in Neuroscience and Mathematics at Middlebury College, VT in 2
 
 **News**
 - I will be speaking at the Brain Conference: Structuring Knowledge for Flexible Behavior (Oct, 2023) <a href="https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour?tab=1" target="_blank">[link]</a>
-- I gave a talk talk on the topic of Computational Neuropsychiatry as part of the Brain Building Blocks Series (May, 2023) <a href="https://braincode101.github.io/?fbclid=IwAR2xpQVOtd3WLU7cVvREygQh9O2SxQG7M9oIw-iWueEGQuBkFY3bBIg7a_A" target="_blank">[link]</a>
-- I was invited to speak at the Innovators in Cognitive Neuroscience seminar (Mar, 2023) <a href="https://innovatorsincogneuro.github.io/speaker-info/nuttida-rungratsameetaweemana.html" target="_blank">[link]</a>
+- I gave a short lecture on the topic of Computational Neuropsychiatry as part of the Thailand's Brain Building Blocks Series (May, 2023) <a href="https://braincode101.github.io/?fbclid=IwAR2xpQVOtd3WLU7cVvREygQh9O2SxQG7M9oIw-iWueEGQuBkFY3bBIg7a_A" target="_blank">[link]</a>
+- I presented my research on adaptive learning at the Innovators in Cognitive Neuroscience seminar (Mar, 2023) <a href="https://innovatorsincogneuro.github.io/speaker-info/nuttida-rungratsameetaweemana.html" target="_blank">[link]</a>
 
 **Selected Awards & Honors**
 - U.S. ARL Humans in Complex Systems Award (2023)
