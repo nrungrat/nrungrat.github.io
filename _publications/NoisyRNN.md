@@ -6,7 +6,7 @@ authors: <b>Nutida Rungratsameetaweemana*</b>, Robert Kim*, Thiparat Chotibut, T
 excerpt: 
 date: 2023-05-01
 venue: bioRxiv
-img: 'CCM.png'
+img: 'NoisyRNN.PNG'
 doi: "https://www.biorxiv.org/content/10.1101/2022.10.14.512301v1"
 pub: 0
 ---
