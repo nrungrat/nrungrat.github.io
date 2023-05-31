@@ -20,8 +20,9 @@ I completed my BA in Neuroscience and Mathematics at Middlebury College, VT in 2
 - I gave a research presentation on adaptive learning at the Innovators in Cognitive Neuroscience seminar (Mar, 2023) <a href="https://innovatorsincogneuro.github.io/speaker-info/nuttida-rungratsameetaweemana.html" target="_blank">[link]</a>
 
 **Selected Awards & Honors**
-- U.S. ARL Humans in Complex Systems Award (2023)
-- Rising Star in Engineering in Health Award (2022) <a href="https://www.bme.jhu.edu/2022-rising-stars-in-engineering-in-health/" target="_blank">[link]</a>
+- Rising Star in Engineering in Health Award (2022) <a href="https://www.bme.jhu.edu/2022-rising-stars-in-engineering-in-health/" target="_blank">[link]</a> 
+- Edwards-Yeckel Professional Development Award (2022) <a href="https://inside.salk.edu/winter-2022/spotlight/" target="_blank">[link]</a> 
+- Inaugural Kavli Institute for Brain and Mind Postdoctoral Award (2022) <a href="https://biology.ucsd.edu/about/news/2022/article_060222.html" target="_blank">[link]</a> 
 - Salk Women & Science Special Award (2021) <a href="https://www.salk.edu/engage/women-science/award-recipients/" target="_blank">[link]</a>
 - UC San Diego Chancellor’s Outstanding Postdoctoral Award(2021) <a href="https://postdoc.ucsd.edu/award-opportunities/postdoctoral-scholar-award.html#Recipients" target="_blank">[link1]</a>, <a href="https://inc.ucsd.edu/news/" target="_blank">[link2]</a>
 - Salk Institute Next Gen Postdoc (2021) <a href="https://inside.salk.edu/fall-2021/nuttida-rungratsameetaweemana-drawing-from-memories/" target="_blank">[link]</a>
