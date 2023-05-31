@@ -16,8 +16,8 @@ I completed my BA in Neuroscience and Mathematics at Middlebury College, VT in 2
 
 **Selected Awards & Honors**
 - U.S. ARL Humans in Complex Systems Award (2023)
-- Rising Star in Engineering in Health Award (2022)
-- Salk Women & Science Special Award (2021)
+- Rising Star in Engineering in Health Award (2022) <a href="https://www.bme.jhu.edu/2022-rising-stars-in-engineering-in-health/" target="_blank">[link]</a>
+- Salk Women & Science Special Award (2021) <a href="https://www.salk.edu/engage/women-science/award-recipients/" target="_blank">[link]</a>
 - UC San Diego Chancellor’s Outstanding Postdoctoral Award(2021) <a href="https://postdoc.ucsd.edu/award-opportunities/postdoctoral-scholar-award.html#Recipients" target="_blank">[link1]</a>, <a href="https://inc.ucsd.edu/news/" target="_blank">[link2]</a>
 - Salk Institute Next Gen Postdoc (2021) <a href="https://inside.salk.edu/fall-2021/nuttida-rungratsameetaweemana-drawing-from-memories/" target="_blank">[link]</a>
 - Cell Press/ Society for Neuroscience Anuradha Rao Memorial Award (2021) <a href="https://marlin-prod.literatumonline.com/pb-assets/journals/research/neuron/Anuradha_Rao_Memorial_Award_2020_2021.pdf" target="_blank">[link]</a>
