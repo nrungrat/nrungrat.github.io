@@ -20,7 +20,6 @@ I completed my BA in Neuroscience and Mathematics at Middlebury College, VT in 2
 - I gave a talk at the Manifolds in Nature Conference organized by Okinawa Institute of Science and Technology (Feb, 2024) <a href="https://groups.oist.jp/manifold" target="_blank">[link]</a>
 - I presented our recent modeling work at the Neurosurgery Seminars at Baylor College of Medicine (Dec, 2023)
 - I gave a talk at the Brain Conference: Structuring Knowledge for Flexible Behavior (Oct, 2023) <a href="https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour" target="_blank">[link]</a>
-- I gave a short lecture on the topic of Computational Neuropsychiatry as part of the Thailand's Brain Building Blocks Series (May, 2023) <a href="https://braincode101.github.io/?fbclid=IwAR2xpQVOtd3WLU7cVvREygQh9O2SxQG7M9oIw-iWueEGQuBkFY3bBIg7a_A" target="_blank">[link]</a>
 
 **Selected Awards & Honors**
 - Middlebury Alumni Achievement Award (2024)
