@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nuttida Rungratsameetaweemana, PhD"
 title_separator          : "-"
 name                     : &name "Nuttida Rungratsameetaweemana"
-description              : &description "Provost's Research Fellow"
+description              : &description #"Provost's Research Fellow"
 url                      : "https://nrungrat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nrungrat.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nuttida Rungratsameetaweemana"
   avatar           : "Nuttida_Profile5.JPG"
-  bio              : "Provost's Research Fellow | Columbia BME"
+  bio              : #"Provost's Research Fellow | Columbia BME"
   location         : "New York City, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -312,3 +312,4 @@ compress_html:
 
 
 theme: jekyll-theme-cayman
+
